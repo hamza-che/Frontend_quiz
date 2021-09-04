@@ -1,0 +1,224 @@
+{
+    "html": [
+        {
+            "title": "in html can we use this way to add attributes",
+            "answer_1": "<div class='class-name'>",
+            "answer_2": "<div class=class-name>",
+            "answer_3": "<div 'class'=class-name>",
+            "answer_4": "div class='class-name>'",
+            "right_answer": "<div class='class-name'>"
+        },
+        {
+            "title": "what's the element that not exist on HTML5 semantics",
+            "answer_1": "<article>",
+            "answer_2": "<blockquote>",
+            "answer_3": "<section>",
+            "answer_4": "<aside>",
+            "right_answer": "<blockquote>"
+        },
+        {
+            "title": "how we specify an HTML5 document type",
+            "answer_1": "<DOCTYPE html>",
+            "answer_2": "<DOCTYPE html5>",
+            "answer_3": "<!DOCTYPE html>",
+            "answer_4": "<!DOCTYPE html5>",
+            "right_answer": "<!DOCTYPE html>"
+        },
+        {
+            "title": "what is the tag that not exist on html",
+            "answer_1": "<object>",
+            "answer_2": "<section>",
+            "answer_3": "<abbr>",
+            "answer_4": "All tags exist",
+            "right_answer": "All tags exist"
+        },
+        {
+            "title": "how we can include external page inside our html page",
+            "answer_1": "By using include in html",
+            "answer_2": "By using load in html",
+            "answer_3": "By using iframe tag",
+            "answer_4": "<i>",
+            "right_answer": "By using iframe tag"
+        },
+        {
+            "title": "what is the right hierarchy to create html page",
+            "answer_1": "<h2> then <p> then <h1> then <img>",
+            "answer_2": "<h1> then <p> then <h3> then <img> then <h2> then <p>",
+            "answer_3": "<h3> then <p> then <h1> then <img> then <p>",
+            "answer_4": "All is wrong",
+            "right_answer": "All is wrong"
+        },
+        {
+            "title": "how can we make text bold on html",
+            "answer_1": "putting it inside <b> element",
+            "answer_2": "putting it inside <strong> element",
+            "answer_3": "by using font-weight css property ",
+            "answer_4": "All is right",
+            "right_answer": "All is right"
+        },
+        {
+            "title": "is <img> element has href attribute",
+            "answer_1": "Yes",
+            "answer_2": "No it's for anchor tag <a>",
+            "answer_3": "all html has this attribute",
+            "answer_4": "answer 1 and 3 right",
+            "right_answer": "No it's for anchor tag <a>"
+        },
+        {
+            "title": "why we use <br> element",
+            "answer_1": "to make text bold",
+            "answer_2": "to make text italic",
+            "answer_3": "to add break line",
+            "answer_4": "to create horizontal line",
+            "right_answer": "to add break line"
+        }
+    ],
+    "css": [
+        {
+            "title": "how to make text bold",
+            "answer_1": "text-align property",
+            "answer_2": "box-shadow property",
+            "answer_3": "border-radius property",
+            "answer_4": "font-weight property",
+            "right_answer": "font-weight property"
+        },
+        {
+            "title": "how to use custom property",
+            "answer_1": "var",
+            "answer_2": "--var",
+            "answer_3": "var(--value)",
+            "answer_4": "var--",
+            "right_answer": "var(--value)"
+        },
+        {
+            "title": "how to make text center",
+            "answer_1": "text-align",
+            "answer_2": "align-items",
+            "answer_3": "align-content",
+            "answer_4": "border-raius",
+            "right_answer": "text-align"
+        },
+        {
+            "title": "how to do a flexible box",
+            "answer_1": "flex-box",
+            "answer_2": "grid",
+            "answer_3": "margin",
+            "answer_4": "padding",
+            "right_answer": "flex-box"
+        },
+        {
+            "title": "how to do shadow",
+            "answer_1": "text-align",
+            "answer_2": "text-transform",
+            "answer_3": "box-shadow",
+            "answer_4": "<i>",
+            "right_answer": "box-shadow"
+        },
+        {
+            "title": "how to make text uppercase",
+            "answer_1": "font-familly",
+            "answer_2": "text-shadow",
+            "answer_3": "border-bottom",
+            "answer_4": "All is wrong",
+            "right_answer": "All is wrong"
+        },
+        {
+            "title": "how to call your css file",
+            "answer_1": "<!DOCTYPE html>",
+            "answer_2": "<link rel='your-file-directory'>",
+            "answer_3": "@import",
+            "answer_4": "<script src='your-file-directory'>",
+            "right_answer": "All is wrong"
+        },
+        {
+            "title": "how to make a circle with css",
+            "answer_1": "border",
+            "answer_2": "border-radius",
+            "answer_3": "margin",
+            "answer_4": "padding",
+            "right_answer": "border-radius"
+        },
+        {
+            "title": "which element has width 100% for its parent",
+            "answer_1": "inline-block",
+            "answer_2": "inline",
+            "answer_3": "block",
+            "answer_4": "inline-flex",
+            "right_answer": "block"
+        }
+    ],
+    "javascript": [
+        {
+            "title": "in html can we use this way to add attributes",
+            "answer_1": "<div class='class-name'>",
+            "answer_2": "<div class=class-name>",
+            "answer_3": "<div 'class'=class-name>",
+            "answer_4": "div class='class-name>'",
+            "right_answer": "<div class='class-name'>"
+        },
+        {
+            "title": "what's the element that not exist on HTML5 semantics",
+            "answer_1": "<article>",
+            "answer_2": "<blockquote>",
+            "answer_3": "<section>",
+            "answer_4": "<aside>",
+            "right_answer": "<blockquote>"
+        },
+        {
+            "title": "how we specify an HTML5 document type",
+            "answer_1": "<DOCTYPE html>",
+            "answer_2": "<DOCTYPE html5>",
+            "answer_3": "<!DOCTYPE html>",
+            "answer_4": "<!DOCTYPE html5>",
+            "right_answer": "<!DOCTYPE html>"
+        },
+        {
+            "title": "what is the tag that not exist on html",
+            "answer_1": "<object>",
+            "answer_2": "<section>",
+            "answer_3": "<abbr>",
+            "answer_4": "All tags exist",
+            "right_answer": "All tags exist"
+        },
+        {
+            "title": "how we can include external page inside our html page",
+            "answer_1": "By using include in html",
+            "answer_2": "By using load in html",
+            "answer_3": "By using iframe tag",
+            "answer_4": "<i>",
+            "right_answer": "By using iframe tag"
+        },
+        {
+            "title": "what is the right hierarchy to create html page",
+            "answer_1": "<h2> then <p> then <h1> then <img>",
+            "answer_2": "<h1> then <p> then <h3> then <img> then <h2> then <p>",
+            "answer_3": "<h3> then <p> then <h1> then <img> then <p>",
+            "answer_4": "All is wrong",
+            "right_answer": "All is wrong"
+        },
+        {
+            "title": "how can we make text bold on html",
+            "answer_1": "putting it inside <b> element",
+            "answer_2": "putting it inside <strong> element",
+            "answer_3": "by using font-weight css property ",
+            "answer_4": "All is right",
+            "right_answer": "All is right"
+        },
+        {
+            "title": "is <img> element has href attribute",
+            "answer_1": "Yes",
+            "answer_2": "No it's for anchor tag <a>",
+            "answer_3": "all html has this attribute",
+            "answer_4": "answer 1 and 3 right",
+            "right_answer": "No it's for anchor tag <a>"
+        },
+        {
+            "title": "why we use <br> element",
+            "answer_1": "to make text bold",
+            "answer_2": "to make text italic",
+            "answer_3": "to add break line",
+            "answer_4": "to create horizontal line",
+            "right_answer": "to add break line"
+        }
+    ]
+}
